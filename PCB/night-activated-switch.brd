@@ -194,7 +194,7 @@
 <text x="26.4" y="15.1" size="1.27" layer="22" ratio="15" rot="MR0" align="top-center">Circuit Monkey</text>
 <text x="26.4" y="13.5" size="1.016" layer="22" distance="30" rot="MR0" align="top-center">Night Activated
 Switch</text>
-<text x="32.3" y="0.6" size="1.016" layer="22" rot="MR0">2022-04</text>
+<text x="32.3" y="0.6" size="1.016" layer="22" rot="MR0">2022-04   Rev. A</text>
 </plain>
 <libraries>
 <library name="con-molex" urn="urn:adsk.eagle:library:8030214">
